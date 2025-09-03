@@ -1,2 +1,29 @@
-# bike-sales-dashboard
-This repository contains the Power BI dashboard for E-bike Traders, designed to visualize key performance metrics including hourly revenue, profit trends, seasonal patterns, and rider demographics. The dashboard connects directly to an MSSQL database to provide real-time insights for data-driven decision-making.
+# E-bike Traders Dashboard
+
+A Power BI dashboard connected to an MSSQL database to analyze key performance metrics for E-bike Traders.
+<img width="1295" height="731" alt="image" src="https://github.com/user-attachments/assets/3c01503d-f866-446a-8a3d-bbd1a9755614" />
+
+## Overview
+
+This dashboard helps monitor and visualize critical business metrics such as:
+- Hourly revenue
+- Profit and revenue trends
+- Seasonal revenue patterns
+- Rider demographics
+
+It supports informed decision-making, including recommendations on pricing adjustments for the upcoming year.
+
+## Features
+
+- Real-time data from MSSQL Server
+- Interactive charts and filters
+- Responsive design with company branding
+- Segmented views for users
+- KPI analysis over time
+
+## Pricing Recommendation
+
+Based on analysis:
+- Current price: $4.99 (2022)
+- Recommended increase: 10–15%
+- New price range: **$5.49 – $5.74**
